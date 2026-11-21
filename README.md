@@ -3,9 +3,9 @@
 
 
 
-# Desktop dock for the compact RD02 smart card reader
+# Desktop dock for the compact  smart card reader
 
-A 3D-printable dock that turns the compact RD02 card reader into a desktop reader. It works with a mini-USB cable of any length.
+A 3D-printable dock that turns the compact T2SR (https://www.token2.com/products/token2-t2sr-compact-usb-nfc-and-smart-card-reader)  card reader into a desktop reader. It works with a mini-USB cable of any length.
 
 The reader comes with a short stowable USB cable. This dock ignores that cable and uses the reader's **mini-USB port** instead. You plug in a standard mini-USB cable through a tunnel at the back of the dock. The dock holds the reader firmly. Once the cable is plugged in, the reader can't fall out, even if the dock is turned upside down.
 
