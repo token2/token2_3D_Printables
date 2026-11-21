@@ -35,9 +35,7 @@ The reader comes with a short stowable USB cable. This dock ignores that cable a
 | File | Purpose |
 |---|---|
 | `reader_desk_dock_v11.stl` | Ready to print |
-| `reader_desk_dock_v11.step` | For editing in any CAD tool |
-| `reader_desk_dock_v11.py` | Parametric CadQuery source that generates the STL and STEP |
-| `tagline_polys.json` | Outlines of the "token2.swiss" text, read by the script |
+ 
 
 ## Printing
 
