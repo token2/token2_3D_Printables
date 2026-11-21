@@ -9,7 +9,8 @@ A 3D-printable dock that turns the compact RD02 card reader into a desktop reade
 
 The reader comes with a short stowable USB cable. This dock ignores that cable and uses the reader's **mini-USB port** instead. You plug in a standard mini-USB cable through a tunnel at the back of the dock. The dock holds the reader firmly. Once the cable is plugged in, the reader can't fall out, even if the dock is turned upside down.
 
-![Dock with reader](images/views.png)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/82b7a4a3-9021-44cd-80e2-eeb2812093d0" />
+
 
 ## Features
 
