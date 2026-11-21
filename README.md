@@ -34,7 +34,7 @@ The reader comes with a short stowable USB cable. This dock ignores that cable a
 
 | File | Purpose |
 |---|---|
-| `reader_desk_dock_v11.stl` | Ready to print |
+| `compact_reader_desk_dock_v1.stl` | Ready to print |
  
 
 ## Printing
